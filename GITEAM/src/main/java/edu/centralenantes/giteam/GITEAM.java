@@ -11,6 +11,6 @@ package edu.centralenantes.giteam;
 public class GITEAM {
 
     public static void main(String[] args) {
-        System.out.println("Pull test");
+        System.out.println("Xtest");
     }
 }
